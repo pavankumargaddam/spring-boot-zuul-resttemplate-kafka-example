@@ -1,0 +1,1 @@
+# spring-boot-zuul-resttemplate-kafka-example
